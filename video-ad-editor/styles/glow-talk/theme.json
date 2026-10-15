@@ -1,0 +1,15 @@
+{
+  "capStyle": "glow",
+  "glow": "#FFD60A",
+  "neg": "#FF3B30",
+  "negWords": ["مشكل", "المشكل", "مشاكل", "المشاكل", "صعيب", "صعيبة", "صعوبة", "الصعوبة", "معقدة", "معقد", "والو", "كتدوخ", "مشكلة", "المشكلة"],
+  "latinFont": "Montserrat",
+  "latinUpper": true,
+  "grade": false,
+  "bar": false,
+  "badgeUntil": 0,
+  "motionBlur": 8,
+  "shutter": 0.5,
+  "sfx": "none",
+  "brollMin": 2.8
+}

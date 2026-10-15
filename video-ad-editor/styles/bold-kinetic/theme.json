@@ -1,0 +1,13 @@
+{
+  "capStyle": "big",
+  "bg": "#0A0A0A",
+  "ink": "#FFFFFF",
+  "acc": "#FF2D55",
+  "clay": "#C21E3E",
+  "mut": "#9A9A9A",
+  "grade": false,
+  "motion": { "bounce": true },
+  "motionBlur": 10,
+  "shutter": 0.75,
+  "sfx": "beats"
+}

@@ -1,0 +1,13 @@
+{
+  "capStyle": "keywords",
+  "kwLook": "3d",
+  "glow": "#FFD60A",
+  "grade": "auto",
+  "bar": false,
+  "badgeUntil": 0,
+  "motionBlur": 10,
+  "shutter": 0.75,
+  "noCut": true,
+  "sfx": "sparse",
+  "music": true
+}

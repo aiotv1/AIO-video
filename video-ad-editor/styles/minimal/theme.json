@@ -1,0 +1,16 @@
+{
+  "capStyle": "shadow",
+  "bg": "#F4F1EC",
+  "ink": "#1E1E1E",
+  "acc": "#B08D57",
+  "clay": "#8C6D3F",
+  "mut": "#8A8580",
+  "pace": "calm",
+  "grade": false,
+  "bar": false,
+  "badgeUntil": 0,
+  "grid": false,
+  "motionBlur": 6,
+  "shutter": 0.35,
+  "sfx": "none"
+}
