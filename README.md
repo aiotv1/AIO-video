@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME/AIO-video/releases/latest/download/AIO-video.zip">
+  <a href="https://github.com/aiotv1/AIO-video/releases/download/1.0.0/AIO-video.zip">
     <img alt="Download AIO-video" src="https://img.shields.io/badge/Download-AIO--video.zip-CD6F50?style=for-the-badge&logo=github">
   </a>
 </p>
